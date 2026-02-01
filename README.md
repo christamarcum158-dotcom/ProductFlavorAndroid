@@ -13,3 +13,4 @@ Open your terminal, navigate to your working directory, use `git clone` to get a
 ```
 $ git clone https://github.com/nalcalag/ProductFlavorAndroid.git
 ```
+abort, cancel, this was malfeasance
